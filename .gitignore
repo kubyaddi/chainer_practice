@@ -64,4 +64,6 @@ target/
 *.sw?
 .*.un~
 
+#Graphviz files
+*.dot
 
